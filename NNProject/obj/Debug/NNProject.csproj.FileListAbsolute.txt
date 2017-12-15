@@ -1,0 +1,64 @@
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\bin\Debug\NNProject.exe.config
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\bin\Debug\NNProject.exe
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\bin\Debug\NNProject.pdb
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\obj\Debug\NNProject.exe
+C:\Users\FM\Documents\Visual Studio 2015\Projects\NNProject\NNProject\obj\Debug\NNProject.pdb
+E:\محاضرات\4th Year\2nd term\Nural Networks\Project\NNProject\NNProject\bin\Debug\NNProject.exe.config
+E:\محاضرات\4th Year\2nd term\Nural Networks\Project\NNProject\NNProject\obj\Debug\NNProject.exe
+E:\محاضرات\4th Year\2nd term\Nural Networks\Project\NNProject\NNProject\obj\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\bin\Debug\NNProject.exe.config
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\bin\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\bin\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+D:\fcis\year (4)\Term (2)\Neural Network\NNProject\NNProject\obj\Debug\NNProject.csprojResolveAssemblyReference.cache
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe.config
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\obj\Debug\NNProject.exe
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\obj\Debug\NNProject.pdb
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\bin\Debug\NNProject.pdb
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+C:\Users\EL-MUSLIM\Desktop\NNProject\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe.config
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\bin\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+D:\fcis\year (4)\Term (2)\NNProject\NNProject\NNProject\obj\Debug\NNProject.csprojResolveAssemblyReference.cache
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe.config
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.pdb
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.exe
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.pdb
+E:\4th Year\Second Semester\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.csprojResolveAssemblyReference.cache
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe.config
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\bin\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.Form1.resources
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.exe
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.pdb
+D:\fcis\year (4)\Term (2)\Neural Network\Project\NNProject\NNProject\NNProject\obj\Debug\NNProject.csprojResolveAssemblyReference.cache
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.csprojResolveAssemblyReference.cache
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.Form1.resources
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.Properties.Resources.resources
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.csproj.GenerateResource.Cache
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\bin\Debug\NNProject.exe.config
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\bin\Debug\NNProject.exe
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\bin\Debug\NNProject.pdb
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.exe
+E:\4th Year\Second Semester\Neural Network\Project\NNProjectFinal\NNProject\obj\Debug\NNProject.pdb
